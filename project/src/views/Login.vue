@@ -1,6 +1,6 @@
 <template>
   <div class="auth-container">
-    <h2>Login</h2>
+    <h2>SIGN IN</h2>
     <form @submit.prevent="login">
       <div class="form-group">
         <label for="email">Email</label>
